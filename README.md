@@ -82,6 +82,6 @@ Please don't hesitate to contact us with any questions. It's better to ask for c
 - Ability to swipe right or left and save that cat on your favourites to review later.
 
 
-![ScreenRecording 1](media/ScreenRecording-1.mp4 "ScreenRecording 1")
+![ScreenRecording-1](media/ScreenRecording-1.gif)
 
 ⌨️ with ♡ by [J. Palomino](https://github.com/Jorge-Palomino) 😈
