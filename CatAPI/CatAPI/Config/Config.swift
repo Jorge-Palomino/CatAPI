@@ -8,6 +8,6 @@
 class Config {
     
     // Cat API key
-    static let apiKey = "live_IWu94EKp4VtLSN2sj4W268dP6nOg5LapturezwkBYoyK1kTKopVYboHKCBiSUO8T"
+    static let apiKey = "" // Add API Key here from https://thecatapi.com/
     
 }
